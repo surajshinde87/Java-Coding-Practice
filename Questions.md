@@ -1,0 +1,2 @@
+1.  Write a Java program to check if a given string is a palindrome. Ignore spaces, punctuation, and case sensitivity.
+2. Write a Java program to find the first non-repeating character in a string. If all characters repeat, return -1.
