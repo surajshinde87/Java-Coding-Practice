@@ -1,3 +1,4 @@
+// Remove duplicates from an array
 
 import java.util.HashSet;
 
